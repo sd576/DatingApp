@@ -3,3 +3,4 @@ DA1.API/appsettings.json
 bin
 obj
 *.db
+DA1.API/obj/Debug/netcoreapp3.1/DA1.API.AssemblyInfoInputs.cache
