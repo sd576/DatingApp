@@ -55,3 +55,11 @@
 /Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
 /Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
 /Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/obj/Debug/netcoreapp3.1/DA1.API.csproj.CopyComplete
+/Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
