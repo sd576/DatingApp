@@ -78,6 +78,5 @@ namespace DA1.API.Controllers
                 token = tokenHandler.WriteToken(token)
             });
         }
-
     }
 }
