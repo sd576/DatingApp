@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lpUoGE2d2s3bYgBMLpj0e7OtRKQj+jTTfUDY1/RJqGCtDRrmMdqODkuQozMckwNzhuaG3SHn6zGCNEaRI3ojWw==",
+  "dgSpecHash": "2fdhzDlNrTPlVXim/8DtAwJbRF80NVluR6ugJyjlNbgPBa89r4da9OTQUGCwEJ6kDRZZw2xGt/rGSGkbuO9RAQ==",
   "success": true,
   "projectFilePath": "/Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/DA1.API.csproj",
   "expectedPackageFiles": [
+    "/Users/stuartducasse/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",
+    "/Users/stuartducasse/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/7.0.0/automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/3.1.1/microsoft.aspnetcore.authentication.jwtbearer.3.1.1.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/microsoft.aspnetcore.diagnostics/2.2.0/microsoft.aspnetcore.diagnostics.2.2.0.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/microsoft.aspnetcore.diagnostics.abstractions/2.2.0/microsoft.aspnetcore.diagnostics.abstractions.2.2.0.nupkg.sha512",
@@ -49,6 +51,8 @@
     "/Users/stuartducasse/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/5.5.0/microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/microsoft.identitymodel.tokens/6.5.1/microsoft.identitymodel.tokens.6.5.1.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/microsoft.net.http.headers/2.2.0/microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "/Users/stuartducasse/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/stuartducasse/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.2/sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
@@ -60,11 +64,19 @@
     "/Users/stuartducasse/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/system.diagnostics.diagnosticsource/4.7.0/system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/system.identitymodel.tokens.jwt/6.5.1/system.identitymodel.tokens.jwt.6.5.1.nupkg.sha512",
+    "/Users/stuartducasse/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/stuartducasse/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/stuartducasse/.nuget/packages/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/Users/stuartducasse/.nuget/packages/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/stuartducasse/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/Users/stuartducasse/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/stuartducasse/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
     "/Users/stuartducasse/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512",
-    "/Users/stuartducasse/.nuget/packages/system.text.json/4.7.0/system.text.json.4.7.0.nupkg.sha512"
+    "/Users/stuartducasse/.nuget/packages/system.text.json/4.7.0/system.text.json.4.7.0.nupkg.sha512",
+    "/Users/stuartducasse/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

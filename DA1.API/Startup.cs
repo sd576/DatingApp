@@ -18,6 +18,7 @@ using System.Net;
 using Microsoft.AspNetCore.Diagnostics;
 using DA1.API.Helpers;
 using Microsoft.AspNetCore.Mvc;
+using AutoMapper;
 
 namespace DA1.API
 {
@@ -41,6 +42,7 @@ namespace DA1.API
                 Newtonsoft.Json.ReferenceLoopHandling.Ignore;
             });
             services.AddCors();
+            services.AddAutoMapper(typeof(DatingRepository).Assembly);
             services.AddScoped<IAuthRepository, AuthRepository>();
             services.AddScoped<IDatingRepository, DatingRepository>();
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
