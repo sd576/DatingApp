@@ -16,13 +16,13 @@ const httpOptions = {
 export class UserService {
   baseUrl = environment.apiUrl;
 
-  constructor(private http: HttpClient) { }
+  constructor(private http: HttpClient) {}
 
   getUsers(): Observable<User[]> {
     return this.http.get<User[]>(this.baseUrl + 'users', httpOptions);
   }
 
-  getUser(id): Observable<User> {
+  getUser(id: number): Observable<User> {
     return this.http.get<User>(this.baseUrl + 'users/' + id, httpOptions);
   }
 }

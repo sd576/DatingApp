@@ -2737,11 +2737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Stuarts Documents-1/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/DA1.API.csproj",
+      "projectUniqueName": "/Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/DA1.API.csproj",
       "projectName": "DA1.API",
-      "projectPath": "/Volumes/Stuarts Documents-1/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/DA1.API.csproj",
+      "projectPath": "/Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/DA1.API.csproj",
       "packagesPath": "/Users/stuartducasse/.nuget/packages/",
-      "outputPath": "/Volumes/Stuarts Documents-1/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/obj/",
+      "outputPath": "/Volumes/Stuarts Documents/Programming/ASP_AngularCourse/ASP_Proj1/DA1.API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

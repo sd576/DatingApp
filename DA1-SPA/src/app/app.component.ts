@@ -8,12 +8,12 @@ import { JwtHelperService } from '@auth0/angular-jwt';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title(title: any) {
-    throw new Error("Method not implemented.");
-  }
-  jwtHelper = new JwtHelperService();
 
   constructor(private authService: AuthService) { }
+  jwtHelper = new JwtHelperService();
+  title(title: any) {
+    throw new Error('Method not implemented.');
+  }
 
   ngOnInit() {
     const token = localStorage.getItem('token');
@@ -21,5 +21,4 @@ export class AppComponent implements OnInit {
       this.authService.decodedToken = this.jwtHelper.decodeToken(token);
     }
   }
-
 }
