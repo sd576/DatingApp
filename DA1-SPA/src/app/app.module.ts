@@ -71,7 +71,7 @@ export class CustomHammerConfig extends HammerGestureConfig {
       ErrorInterceptorProvider,
       MemberDetailResolver,
       MemberListResolver,
-      { provide: HAMMER_GESTURE_CONFIG, useClass: CustomHammerConfig}
+      { provide: HAMMER_GESTURE_CONFIG, useClass: CustomHammerConfig }
    ],
    bootstrap: [
       AppComponent
